@@ -9,5 +9,6 @@ class BunchOfFunctions() {
     print("Learning flutter is such a pain in the asshole");
     print("Another one");
     print("Useless new feature that prints bullshit")
+    print("This better not show vim")
   }
 }
