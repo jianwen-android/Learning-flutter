@@ -8,5 +8,6 @@ class BunchOfFunctions() {
   gay() {
     print("Learning flutter is such a pain in the asshole");
     print("Another one");
+    print("Useless new feature that prints bullshit")
   }
 }
